@@ -3,7 +3,7 @@ name = "jrinx-abi"
 authors = [
     "coekjan <cn_yzr@qq.com>"
 ]
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 license = "MIT"
 description = "ABI for Jrinx"
